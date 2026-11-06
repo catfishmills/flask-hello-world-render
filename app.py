@@ -34,7 +34,7 @@ PAGE = """
 <body>
   <div class="card">
     <div class="emoji">{{ emoji }}</div>
-    <h1>Hello, World!</h1>
+    <h1>Hi Tim Bolden!</h1>
     <h2>What are we solving today?</h2>
     <p>Refresh the page for a new look.</p>
     <small>Running commit: {{ commit }}</small>
