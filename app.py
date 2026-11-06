@@ -9,7 +9,7 @@ PAGE = """
 <!doctype html>
 <html>
 <head>
-  <title>Larisa can't make up her mind</title>
+  <title>Brett.RenderApp</title>
   <style>
     body {
       margin: 0;
@@ -35,7 +35,7 @@ PAGE = """
   <div class="card">
     <div class="emoji">{{ emoji }}</div>
     <h1>Hello, World!</h1>
-    <h2>Hi Larisa</h2>
+    <h2>What are we solving today?</h2>
     <p>Refresh the page for a new look.</p>
     <small>Running commit: {{ commit }}</small>
   </div>
