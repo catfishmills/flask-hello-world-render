@@ -35,7 +35,7 @@ PAGE = """
   <div class="card">
     <div class="emoji">{{ emoji }}</div>
     <h1>Hello, World!</h1>
-    <h2>Catfish Awaits You</h2>
+    <h2>Hi Larisa</h2>
     <p>Refresh the page for a new look.</p>
     <small>Running commit: {{ commit }}</small>
   </div>
