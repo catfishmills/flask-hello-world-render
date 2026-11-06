@@ -9,7 +9,7 @@ PAGE = """
 <!doctype html>
 <html>
 <head>
-  <title>Catfish Awaits You</title>
+  <title>Larisa can't make up her mind</title>
   <style>
     body {
       margin: 0;
